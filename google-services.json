@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "701158578715",
+    "project_id": "react-native--auth-eea5d",
+    "storage_bucket": "react-native--auth-eea5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701158578715:android:c34c391e85fa35baeff6be",
+        "android_client_info": {
+          "package_name": "com.reactnative.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701158578715-nh8rb99tkn9nsga166l51nr66rttocu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnative.authentication",
+            "certificate_hash": "71609d8869128fca220bf904e0d36abf18795fa5"
+          }
+        },
+        {
+          "client_id": "701158578715-30rl98o9f6l3jv66osfalmto9ts3qefd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuJkCKw-iZIrlr5HndYy4T0-ZGgyK1Ptk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701158578715-30rl98o9f6l3jv66osfalmto9ts3qefd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
