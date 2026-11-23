@@ -39,8 +39,8 @@ Download and install the APK:
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
-   cd YOUR_PROJECT_FOLDER
+   git https://github.com/Biswadip125/React_Native_Google_Authentication
+   cd React_Native_Google_Authentication
    ```
 
 2. Install dependencies:
