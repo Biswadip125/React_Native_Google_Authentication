@@ -1,4 +1,4 @@
-# HB+ Authentication App
+# React Native Authentication App
 
 A cross-platform authentication application built using React Native, Expo, and Firebase Authentication. The application allows users to sign in using Google and restricts access to verified `@hbplus.fit` email addresses.
 
