@@ -1,4 +1,4 @@
-const ALLOWED_DOMAIN = "gmail.com";
+const ALLOWED_DOMAIN = "hbplus.fit";
 
 export const isAllowedEmail = (email: string | null): boolean => {
   if (!email) {
